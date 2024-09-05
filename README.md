@@ -5,7 +5,7 @@
 
 ---
 
-<div align="center">
+<div>
   <h2>📇 My stack</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -20,6 +20,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   </div>
+</div>
+
+---
+
+<div>
+  <h2>🧊 My Stats</h2>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=leoevic&theme=highcontrast&hide_border=true&border_radius=0&background=45%2C0052EB%2C00BAEB&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 <!--
